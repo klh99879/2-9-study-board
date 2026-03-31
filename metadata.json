@@ -1,0 +1,5 @@
+{
+  "name": "2-9-schoolboard",
+  "description": "학교 일정, 시험 범위, 수행평가, 생기부 활동을 한눈에 관리하는 학급용 대시보드",
+  "requestFramePermissions": []
+}
